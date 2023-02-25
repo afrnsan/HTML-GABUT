@@ -1,0 +1,62 @@
+body {
+  font-family: arial;
+  font-weight: bold;
+}
+
+.header-logo {
+  font-size: 39px;
+  float: left;
+  padding: 20px 40px;
+}
+
+.header {
+  background-color: darkgoldenrod;
+  color: aliceblue;
+  height: 90px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+.main {
+  height: 600px;
+}
+
+.copy-container h1 {
+  font-size: 50px;
+}
+
+img {
+  width: 350px;
+  height: 300px;
+}
+
+span {
+  color: #ff4a4a;
+}
+
+.footer {
+  background-color: chocolate;
+  color: aliceblue;
+  padding: 40px;
+  height: 120px;
+}
+
+.footer-logo {
+  font-size: 39px;
+  float: left;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding: 8px 10px;
+}
+
+li {
+  list-style: none;
+}
